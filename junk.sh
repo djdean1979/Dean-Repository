@@ -1,4 +1,3 @@
-More trash
 This is a junk file
 
 
